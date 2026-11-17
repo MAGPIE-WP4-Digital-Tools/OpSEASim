@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+virtual/
+venv.bak/
+env.bak/
+.venv/
+
+# PyInstaller
+#  Usually these files are created by pyinstaller, if you are using pyinstaller
+#  we recommend ignoring them.
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+pytest-report.html
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+
+# Repo specific
+
+all_code_marked.txt
+profile_stats.prof
+view_stats.py
+z_convertToText.ipynb
+/data_scenarios/generate_ET/
+
+# Ignore all content inside the /output/ directory
+/output/*
+
+# BUT, do not ignore the 'additional' subdirectory itself.
+!/output/additional/
+
+# Now, ignore everything inside the 'additional' subdirectory
+/output/additional/*
+
+# except for the files you want to keep.
+!/output/additional/initial_yard_state.txt
+!/output/additional/final_yard_state.txt
+!/output/additional/.gitignore
+
+!/output/.gitignore

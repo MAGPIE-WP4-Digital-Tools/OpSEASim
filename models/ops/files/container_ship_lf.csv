@@ -1,0 +1,80 @@
+﻿Group;Electrical Equipment;Nominal Power (kW);Nº of Units;Load Factor (Un)Loading;Simultaneity Factor
+Engine Room;Fuel Oil Purifier Feed Pump;6.479179;2;1;1
+Engine Room;Fuel Oil Circulating Pump;16.5214975;1;1;1
+Engine Room;Fuel Oil Supply Pump;9.7428185;2;1;1
+Engine Room;Fuel Oil Purifier;35.123195;2;1;1
+Engine Room;Diesel Oil Purifier Feed Pump;6.479179;2;1;1
+Engine Room;Diesel Oil Purifier;35.123195;1;1;1
+Engine Room;System Lube Oil Pump;67.07214948;2;1;1
+Engine Room;Lube Oil Purifier Feed Pump;0.822162922;1;1;1
+Engine Room;Lube Oil Purifier;5.64686562;1;1;1
+Engine Room;SW Circulating Pump;23.63529412;3;1;1
+Engine Room;FW Circulating Central Pump;13.6527451;1;1;1
+Engine Room;FW Circulating Jacket Pump;16.09073529;2;1;1
+Engine Room;FW Generator;11.76547587;1;0;1
+Engine Room;Scrubber;205;1;0;1
+Engine Room;Steering Gear Unit;0;2;0;1
+Engine Room;Sewage Treatment Plant;3.01;1;1;1
+Engine Room;ER Ventilation System;115.6132356;1;1;1
+Engine Room;Fuel Oil Transfer Pump;16.9714975;1;0.23;0.5
+Engine Room;Diesel Oil Transfer Pump;16.9714975;1;0.15;0.5
+Engine Room;Main Air Compressor;25.92115994;2;0.17;0.5
+Engine Room;Working Air Compressor;15.16648347;1;0.17;0.5
+Engine Room;Bilge Pump;21.33120908;1;0.17;0.4
+Engine Room;ER Bilge Pump;0.487598039;1;0.17;0.4
+Engine Room;Ballast Pump;23.40470588;2;1;0.4
+Engine Room;Ballast Water Treatment System;15.39669951;1;1;0.4
+Engine Room;ER Stripping Pump;3.062492378;2;1;0.4
+Engine Room;Oily Water Separator;3;1;0;0.4
+Engine Room;Sludge Pump;1.997625732;1;0;0.4
+Engine Room;Main Fire Pump;38.39617635;2;0;0.4
+Engine Room;Emergence Fire Pump;28.79713226;1;0;0.4
+Engine Room;FW Hydrophore Water Pumps;16.09073529;1;1;0.4
+Engine Room;Hydrophore Heater;40;1;1;0
+Engine Room;Sewage Pump;20.79048542;1;0;0
+Deck Machinery;Anchor Windlass;37.93696447;2;0.85;1
+Deck Machinery;Warping Winch;76.47058824;2;0.66;1
+Deck Machinery;Cargo Cranes;160;2;0;1
+Deck Machinery;Bow Thruster;0;2;0;1
+Deck Machinery;Provision Crane;24.98039216;1;0.17;1
+Deck Machinery;Reefer Containers;4366.709248;1;0;0.4
+Deck Machinery;Cargo Ventilation;103.2131277;1;0;0.4
+Communication and Navigation Equipment;Girocompass;0.38;1;0.6;0.8
+Communication and Navigation Equipment;ECDIS;0.16;1;0.6;0.8
+Communication and Navigation Equipment;Speed Equipment;0.46;1;0.6;0.8
+Communication and Navigation Equipment;Echo Sounder;0.24;1;0.6;0.8
+Communication and Navigation Equipment;Radar;2.37;1;0.6;0.8
+Communication and Navigation Equipment;Recorder;0.11;1;0.6;0.8
+Communication and Navigation Equipment;BNAWS;0.08;1;1;0.8
+Communication and Navigation Equipment;Satelite Nav Equipm;0.34;1;0.6;0.8
+Communication and Navigation Equipment;Navtex Receiver;0.14;1;1;0.8
+Communication and Navigation Equipment;INMARSAT Communication;0.97;1;1;0.8
+Communication and Navigation Equipment;VHF;0.28;1;1;0.8
+Communication and Navigation Equipment;Internal Telephone;0.35;1;1;0.8
+Communication and Navigation Equipment;Batteries Chargers;1;1;1;0.8
+Communication and Navigation Equipment;Clear Viewr Sreen;0.62;1;0.2;0.8
+Communication and Navigation Equipment;Horn/Whistle;5.53;1;0.02;0.8
+Lighting;Superstructure Illumination;0.124564394;1;1;0.7
+Lighting;Engine Room Illumination;7.265671883;1;1;2
+Lighting;Exterior illumination (Deck);49.5412005;1;1;1
+Lighting;Lighting Navigation;0;1;0;1
+Refrigeration Equipment;Provision Plant System;6.3415;1;1;1
+AC /HVAC;AC Superstructure;65;2;0.9;1
+AC /HVAC;Superstructure Exhaust;12;1;1;1
+AC /HVAC;Galley Ventilation Fan;1.32;1;1;1
+AC /HVAC;WC Extra;1.32;1;1;1
+AC /HVAC;HVAC Echaust;0.86;1;1;1
+AC /HVAC;Deck Stores and Workshop Exhaust;0.81;1;1;1
+Galley Equipment;Dish Wash Machine;6.875;1;0.5;0.5
+Galley Equipment;Electric Range;9.7;1;0.5;0.5
+Galley Equipment;Garbage Grinder;0;1;0;0.5
+Galley Equipment;Hot Plate;1.4;1;1;0.5
+Galley Equipment;Refrigerator;0.4375;2;0.5;0.5
+Galley Equipment;Microwaves;2.46875;1;0.5;0.5
+Galley Equipment;Electric Frying;4.87;1;0.5;0.5
+Workshop Equipment;Drilling Machine;1.5;1;0.08;0.4
+Workshop Equipment;Lathe;6;1;0.08;0.4
+Workshop Equipment;Welding Transformer;13.5;1;0.08;0.4
+Workshop Equipment;Double Grinder;0.75;1;0.08;0.4
+Laundry Equipment;Dryer Machine;9.54;1;0.5;0.5
+Laundry Equipment;Washing Machine;7.58;1;0.5;0.5

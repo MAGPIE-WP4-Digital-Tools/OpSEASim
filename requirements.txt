@@ -1,0 +1,8 @@
+colorama==0.4.6
+geopy==2.4.1
+matplotlib==3.7.5
+numpy==2.3.3
+pandas==2.3.2
+Requests==2.32.5
+scikit_learn==1.4.2
+simpy==4.1.1
