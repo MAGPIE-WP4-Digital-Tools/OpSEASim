@@ -1,6 +1,6 @@
 ![INESCTEC-banner](https://raw.githubusercontent.com/INESCTEC/.github/main/profile/inesctec_banner.png)
 
-# Terminal Demand Simulator
+# OpSEASim Container Terminal Demand Simulator
 
 This project is a sophisticated, event-driven simulation of a container terminal's operations, built using the SimPy framework in Python. It models the complex interactions between various terminal assets, such as vessels, cranes, and trucks, to analyze operational efficiency and, most importantly, energy consumption.
 
@@ -30,7 +30,7 @@ The file `requirements.txt` provides all the required external dependencies of t
  
  Clone the repository
  ```shell
- git clone https://gitlab.inesctec.pt/cpes/european-projects/magpie/wp4modules/terminaldemandsimulator.git
+ git clone https://github.com/MAGPIE-WP4-Digital-Tools/OpSEASim.git
  cd terminaldemandsimulator
  ```
  
@@ -93,9 +93,10 @@ Article with presentation of software and case study under review.
 ## Contacts
 
 
-* Adrian Carrillo-Galvez (adrian.c.galvez@.inesctec.pt)
+* Zenaida Mourão (zenaida.mourao@inesctec.pt)
+* Tiago Soares (tiago.a.soares@inesctec.pt)
+* Adrian Carrillo Galvez (adrian.c.galvez@.inesctec.pt)
+* Pedro Costa (pedro.costa@inesctec.pt)
 * Rui Rodrigues (rui.m.rodrigues@inesctec.pt)
 * João Almeida (joao.almeida@inesctec.pt)
-* Pedro Costa (pedro.costa@inesctec.pt)
-* Tiago Soares (tiago.a.soares@inesctec.pt)
-* Zenaida Mourão (zenaida.mourao@inesctec.pt)
+
