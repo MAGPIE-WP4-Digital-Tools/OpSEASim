@@ -82,7 +82,7 @@ Once the simulation completes, check the `output/` directory. Key output files i
 
 ## Open source licensing info
 
-This work is under a [temporary license](docs/license.sav).
+This work is under a [dual license](docs/license).
 
 
 ## Links for Docs 
